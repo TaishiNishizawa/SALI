@@ -1,0 +1,8 @@
+# Build outputs of lib/ops_align (python setup.py build_ext --inplace)
+lib/ops_align/build/
+lib/ops_align/.eggs/
+*.so
+__pycache__/
+
+# Prediction maps written by test_video.py
+res/
